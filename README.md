@@ -1,10 +1,13 @@
-# Uuiddqd-python
+# Uuiddqd-python [![Build Status](https://secure.travis-ci.org/simi/uuiddqd-python.png)](http://travis-ci.org/simi/uuiddqd-python)
 
 Simple libuuid pytjom c binding
 
 ## Installation
 
-TBA
+```bash
+python setup.py build
+(sudo) python setup.py install
+```
 
 ## Usage
 
